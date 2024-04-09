@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "angular-firebase",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "europe-west1"
+      }
+    }
+  ]
+}
